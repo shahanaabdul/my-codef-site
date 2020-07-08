@@ -8,4 +8,4 @@ draft: false
 
 I was supposed to go, but now I guess I'm making a website about it!
 
-!![tomorrowland](tomorrowland.jpg)
+![tomorrowland](/Users/Shahana/Sites/my-codef-site/resources/_gen/images/tomorrowland.jpg)
